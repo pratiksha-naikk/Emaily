@@ -37,8 +37,6 @@ cd emaily
 pip install -r requirements.txt
 ```
 4. Running Emaily
-
-Launch Emaily with the following command:
 ```
 streamlit run app.py
 ```
