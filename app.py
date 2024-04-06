@@ -113,7 +113,7 @@ if selected == "Reply to an Email":
     sender_rel = st.text_area(label=" ", value="", height=100, key=5)
 
     st.subheader("Details:")
-    details = st.text_area(label=" ", value="", placeholder="Add Details and Context what you what to reply", height=100, key=3)
+    details = st.text_area(label=" ", value="", placeholder="Add Details and Context", height=100, key=3)
 
     st.subheader("Tone of the email:")
     tone_type = ["Formal", "Informal", "Friendly", "Professional", "Persuasive"]
