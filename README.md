@@ -1,6 +1,6 @@
 # Emaily: The AI-Powered Email Assistant
 
-Check it Out : [https://emaily.streamlit.app/]
+Check it Out : (Emaily Streamlit)[https://emaily.streamlit.app/]
 
 Hi there! I'm excited to introduce you to Emaily, a project born from the idea that communicating via email can be more intuitive, efficient, and tailored to each user's needs. Leveraging cutting-edge generative AI, Emaily aims to transform the way we think about email correspondence, whether it's drafting a new message or replying to one.
 
