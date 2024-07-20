@@ -159,12 +159,7 @@ if selected == "Contact":
 
     st.write("Feel free to reach out to me through any of the following platforms:")
     st.divider()
-    st.write(f"📧 Email: [pnaik7@buffalo.edu](mailto:pnaik7@buffalo.edu)")
-
     st.write(f"🔗 LinkedIn: [linkedin.com/in/pratiksha-naikk](https://www.linkedin.com/in/pratiksha-naikk/)")
-
     st.write(f"👨‍💻 GitHub: [github.com/adiimated](https://github.com/adiimated)")
-
     st.write(f"🌐 Portfolio: [adiimated.github.io/portfolio](https://adiimated.github.io/portfolio/)")
-
     st.divider()
